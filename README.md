@@ -4,14 +4,14 @@ In this project I finished the code in which I integrated a sample Ethereum bloc
 
 ## Streamlit Web Application
 
-![alt="streamlitapp"](Images/streamlitapp.png)
+![alt="streamlitapp"](Starter-Code/Images/streamlitapp.png)
 
 ## Ganache Account
 
-![alt="ganacheaccount"](Images/ganacheaccount.png)
+![alt="ganacheaccount"](Starter-Code/Images/ganacheaccount.png)
 
 ## Ganache Transaction
 
-![alt="ganachecontract"](Images/ganachecontract.png)
+![alt="ganachecontract"](Starter-Code/Images/ganachecontract.png)
 
 
